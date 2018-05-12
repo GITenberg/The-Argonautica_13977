@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/433
     wikipedia: http://en.wikipedia.org/wiki/Apollonius_of_Rhodes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13977#The-Argonautica
 gutenberg_bookshelf: Classical Antiquity
 gutenberg_issued: '2004-11-08'
 gutenberg_type: Text
